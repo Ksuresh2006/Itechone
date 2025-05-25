@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCInventory", "POCInventory.csproj", "{3782368E-B01B-439F-BA19-F7F0D377229B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3782368E-B01B-439F-BA19-F7F0D377229B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3782368E-B01B-439F-BA19-F7F0D377229B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3782368E-B01B-439F-BA19-F7F0D377229B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3782368E-B01B-439F-BA19-F7F0D377229B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF43FE68-48BB-4E41-9D71-FF608910E3E6}
+	EndGlobalSection
+EndGlobal
